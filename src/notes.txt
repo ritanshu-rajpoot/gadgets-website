@@ -6,3 +6,8 @@ http://localhost:3000/about => about-us
 http://localhost:3000/contact => cintact-us
 -----
 -----
+
+
+transform => move, skew, scale, rotate etc....
+
+transition => prop time

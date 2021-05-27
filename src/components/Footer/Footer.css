@@ -1,0 +1,14 @@
+.footer-section{
+    text-align: center;
+    padding: 15px 0;
+    background: linear-gradient(45deg, black,darkslategray);
+    color: white;
+}
+.footer-section p{
+    padding: 5px;
+}
+.footer-section a{
+    margin-left: 5px;
+    text-decoration: none;
+    color: coral;
+}
