@@ -1,0 +1,29 @@
+.web-header{
+    padding: 20px;
+    box-shadow: 0 0 10px black;
+}
+.web-header h2{
+    text-align: right;
+    color: white;
+}
+.main-nav{
+    background: black;
+    color: white;
+
+    display: flex;
+}
+.main-nav .nav-link{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px 25px;
+}
+.main-nav .nav-link:hover{
+    background: linear-gradient(45deg,darkslategray,darkred);
+    border-radius: 20px;
+}
+@media (max-width: 550px){
+    .main-nav{
+        flex-direction: column;
+    }
+}

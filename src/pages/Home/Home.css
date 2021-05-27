@@ -1,0 +1,36 @@
+.main-content-section{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.main-content-article{
+    width: 330px;
+    height: 460px;
+    text-align: center;
+    padding: 10px 5px;
+    border-radius: 20px 0 20px 0;
+    border: 2px solid darkred;
+    margin: 10px;
+    transition: all 0.5s;
+}
+.main-content-article h2{
+    color: darkred;
+}
+.main-content-article img{
+    /*border: 2px solid gray;*/
+    width: 100%;
+}
+.main-content-article:hover{
+    box-shadow: 0 5px 10px red;
+    width: 340px;
+    cursor: pointer;
+}
+.products-items-collections{
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

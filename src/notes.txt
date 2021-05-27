@@ -1,0 +1,8 @@
+anchor tags => Link Tag Or NavLink => react-router-dom
+
+Router, switch, Route
+http://localhost:3000/ => home
+http://localhost:3000/about => about-us
+http://localhost:3000/contact => cintact-us
+-----
+-----
